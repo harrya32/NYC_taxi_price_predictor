@@ -1,7 +1,4 @@
-# MAST30034 Project 1 - Quantitative Analysis
-- Student Name: Harry Amad
-- Student ID: 1082047
-- Due Date: Monday 16th of August 11:59:00 am (AEST).
+# Using Linear Statistical Modelling to Predict New York Taxi Prices
 
 # Dependencies
 - Language: Python 3.8.3
@@ -25,3 +22,4 @@
 - Then, run the preprocessing notebookes to clean the raw_data, pickles will be output to the preprocessed_data folder. The fix_zones notebook can be run, but the output is already in the preprocessed_data folder
 - Run the data_joining notebook to merge the data together, a pickle will be output for both 2018 and 2019 data with all relevant features
 - The statistical_modelling and geospatial_mapping_and_plotting notebooks can then be run, using the pickles created in the previous step to load in the data.
+- The final report is the file 'NYC_taxi_report'
